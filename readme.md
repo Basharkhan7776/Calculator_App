@@ -11,6 +11,11 @@ This project is a simple yet powerful calculator application built using HTML, C
 ## Preview
 
 
+https://github.com/user-attachments/assets/b8b495ed-5eb0-4382-ba66-3a22c23f936e
+
+
+
+
 ## Features
 
 - Supports basic arithmetic operations: addition, subtraction, modulus, Power, multiplication, and division
