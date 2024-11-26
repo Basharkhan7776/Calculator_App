@@ -200,9 +200,10 @@ body {
 .outbox {
     height: 800px;
     width: 600px;
-    margin: 0 auto;
-    position: relative;
-    top: 50px;
+    position:absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
     background: linear-gradient(135deg, rgba(34, 34, 34, 0.1), rgba(53, 53, 53, 0));
     backdrop-filter: blur(100px);
     -webkit-backdrop-filter: blur(100px);
