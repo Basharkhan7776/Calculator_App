@@ -374,14 +374,13 @@ body {
         background: linear-gradient(175deg, rgba(49, 0, 85, 1) 0%, rgba(90, 16, 143, 1) 35%, rgba(210, 131, 255, 1)100%);
     }
 
-    .wrapper {
+    .stars {
         display: none;
     }
 
     .outbox {
         height: 100vh;
         width: 100%;
-        top: 0px;
     }
 }
 
@@ -390,14 +389,13 @@ body {
         background: linear-gradient(175deg, rgba(49, 0, 85, 1) 0%, rgba(90, 16, 143, 1) 35%, rgba(210, 131, 255, 1)100%);
     }
 
-    .wrapper {
+    .stars {
         display: none;
     }
 
     .outbox {
         height: 100vh;
         width: 100%;
-        top: 0px;
     }
     .inbox{
         top: 0px;
