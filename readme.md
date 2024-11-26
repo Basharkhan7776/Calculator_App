@@ -1,6 +1,6 @@
 # Calculator App
 
-A simple yet elegant clock project built using HTML, CSS, and JavaScript.
+A simple yet elegant Calculator project built using HTML, CSS, and JavaScript.
 
 ## [View Live](https://basharkhan7776.github.io/Calculator_App/) 
 
